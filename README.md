@@ -1,6 +1,6 @@
 # Flight Data Analysis and Prediction
 
-This Jupyter Notebook focuses on the analysis and prediction of flight data using pandas, scikit-learn and machine learning techniques to performs analysis on flight data and applies a Random Forest model for regression tasks.
+This Jupyter Notebook is dedicated to the exploration and prediction of flight data by leveraging pandas, scikit-learn, and machine learning techniques. It conducts a comprehensive analysis of flight data and employs a Random Forest model specifically designed for regression tasks.
 
 ## Data Loading and Exploration
 
