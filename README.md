@@ -1,6 +1,6 @@
 # Flight Data Analysis and Prediction
 
-This script, written in Python using pandas and scikit-learn, performs analysis on flight data and applies a Random Forest model for regression tasks.
+This Jupyter Notebook focuses on the analysis and prediction of flight data using pandas, scikit-learn and machine learning techniques to performs analysis on flight data and applies a Random Forest model for regression tasks.
 
 ## Data Loading and Exploration
 
